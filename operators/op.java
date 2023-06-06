@@ -2,7 +2,7 @@
 // operation is performed on two operators
 // we have different types of operators
 // binary: + , - , * , / , %- gives remainder
-// unary ++ , --
+
 
 
 
