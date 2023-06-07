@@ -3,7 +3,7 @@
 // the output is always a boolean value , ie true or false
 
 // logical operator
-//  ||- and , && - or, ! - not
+//  ||- and , && - or, ! - not( reverse the output of the statement)
 
 package operators;
 
